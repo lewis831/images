@@ -1,4 +1,4 @@
-Title: Images                 Author: Lewis Rashe
+Title: Images Type: MeteorJS web application Author: Lewis Rashe
 ----------------------------------
 
 Images is a simple MeteorJS web application that uses axios AJAX get
