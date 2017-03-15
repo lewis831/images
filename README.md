@@ -11,3 +11,7 @@ To get it to work make sure to first install in the file through terminal the fo
 npm install --save axios
 
 meteor npm install --save react react-dom
+
+npm install --save babel-runtime
+
+npm install meteor-node-stubs
