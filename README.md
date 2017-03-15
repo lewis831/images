@@ -1,6 +1,5 @@
-Title: Images   
+Title: Images   &nbsp Author: Lewis Rashe
 ----------------------------------
-Author: Lewis Rashe
 
 Images is a simple MeteorJS web application that uses axios AJAX get
 request to pull data through the imgur API to populate image data,
