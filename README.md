@@ -9,4 +9,4 @@ Notes on what the code does can be found in client and server folders of this Me
 If you notice problems related to these missing modules, consider running within terminal:
                                               
 meteor npm install --save react             
-babel-runtime react-dom axios
+npm install react-dom axios
