@@ -15,3 +15,5 @@ meteor npm install --save react react-dom
 npm install --save babel-runtime
 
 npm install meteor-node-stubs
+----------------------------------
+After you can run the program by typing meteor in the terminal.
