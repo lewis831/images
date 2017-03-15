@@ -6,7 +6,7 @@ titles, description and up vote/downvote bar.
 
 Notes on what the code does can be found in client and server folders of this MeteorJS project.
 
-If you notice problems related to these missing modules, consider running within terminal:
-                                              
-npm install --save react             
-npm install react-dom axios
+To get it to work make sure to first install in the file through terminal the following:
+
+npm install --save axios
+meteor npm install --save react react-dom
