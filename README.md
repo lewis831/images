@@ -9,4 +9,5 @@ Notes on what the code does can be found in client and server folders of this Me
 To get it to work make sure to first install in the file through terminal the following:
 
 npm install --save axios
+
 meteor npm install --save react react-dom
