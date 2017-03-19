@@ -1,5 +1,4 @@
-Title: Images, Type: MeteorJS web application, 
-Author: Lewis Rashe License: MIT
+Title: Images, Type: MeteorJS web application, Author: Lewis Rashe
 ----------------------------------
 
 Images is a simple MeteorJS web application that uses axios AJAX get
@@ -19,3 +18,6 @@ npm install --save babel-runtime
 npm install meteor-node-stubs
 
 After you can run the program by typing "meteor" in the terminal.
+
+License: MIT
+-----------
