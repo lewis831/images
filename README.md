@@ -4,15 +4,15 @@ If you like MEME's you will like this simple MeteorJS web application. Images is
 
 Notes on what the code does can be found in client and server folders of this MeteorJS project.
 
-To get it to work make sure to first install in the file through terminal the following:
+1. To get it to work make sure to first install in the file through terminal the following:
 
-npm install --save axios
+    npm install --save axios
 
-meteor npm install --save react react-dom
+    meteor npm install --save react react-dom
 
-npm install --save babel-runtime
+    npm install --save babel-runtime
 
-npm install meteor-node-stubs
+    npm install meteor-node-stubs
 
 After you can run the program by typing "meteor" in the terminal.
 
