@@ -4,7 +4,7 @@ If you like MEME's you will like this simple MeteorJS web application. Images is
 
 Notes on what the code does can be found in client and server folders of this MeteorJS project.
 
-1. To get it to work make sure to first install in the file through terminal the following:
+1. To get it to work make sure to first install in the file using cd "images-master" through terminal the following:
 
     npm install --save axios
 
