@@ -2,6 +2,8 @@ Title: Images, Type: MeteorJS web application, Author: Lewis Rashe
 ----------------------------------
 If you like MEME's you will like this simple MeteorJS web application. Images is a simple MeteorJS web application that uses axios AJAX get request to pull data through the imgur API to populate image data, titles, description and upvote/downvote bar. 
 
+Here is the API used: https://api.imgur.com/3/gallery/hot/viral/0
+
 Notes on what the code does can be found in client and server folders of this MeteorJS project.
 
 1. To get it to work make sure to first install in the file using "cd images-master" through terminal the following:
