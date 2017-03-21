@@ -18,5 +18,5 @@ After you can run the program by typing "meteor" in the terminal.
 
 To learn more check out the MeteorJS documentation to further help you get started: https://www.meteor.com
 ----------
-License: MIT
+LICENSE MIT
 -----------
